@@ -3,7 +3,7 @@
 
 APP de monitoração de cryptos para estudo de _Desenvolvimento Android_ e _APIs REST_.
 
-## Stack utilizada
+## Stack
 
 **APP:** Kotlin + Android Studio
 
