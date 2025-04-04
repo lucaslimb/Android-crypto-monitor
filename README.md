@@ -1,5 +1,5 @@
 
-# Android Crypto Monitor
+# 🪙 Android Crypto Monitor
 
 APP de monitoração de cryptos para estudo de _Desenvolvimento Android_ e _APIs REST_.
 
