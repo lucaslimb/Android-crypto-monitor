@@ -5,7 +5,7 @@ _Lucas de Lima Bezerra - RM98632_
 
 APP de monitoração de cryptos utilizando API Rest do MercadoBitcoin
 
-Jump to: [Documentação de classes](#-documentacao)
+Jump to: [Documentação de classes](#-documentação)
 
 ## 📲 Testando
 
