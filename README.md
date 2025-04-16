@@ -5,9 +5,22 @@ _Lucas de Lima Bezerra - RM98632_
 
 APP de monitoração de cryptos utilizando API Rest do MercadoBitcoin
 
-## 📲 Testando o APP
+Jump to: [Documentação de classes](#documentacao)
+
+## 📲 Testando
 
 <img src="images/Screen_recording.gif" alt="Screenshot do APP" width="200">
+
+## 🛠️ Como você pode testar
+
+- Clone o repositório
+
+```
+git clone https://github.com/lucaslimb/Android-crypto-monitor.git
+```
+
+- Utilize um emulador via Android Studio ou IDE própria
+- Garanta que o Android emulado seja 8.1 (API 27) ou superior 
 
 ## 💻 Stack utilizada
 
@@ -20,6 +33,23 @@ APP de monitoração de cryptos utilizando API Rest do MercadoBitcoin
   - Kotlinx Coroutines
 - APIs:
   - [MercadoBitcoin](https://api.mercadobitcoin.net/api/v4/docs)
+
+## 📚 Estrutura do projeto (simplificada)
+
+```
+├───app.src.main
+│    └───java
+│         └───lucaslimb.com.github.android_crypto_monitor
+│                ├───model           
+│                ├───service    
+│                ├───ui        
+│                └───MainActivity.kt                             
+└───res
+    ├───drawable
+    ├───layout
+    ├───values
+    └───xml
+```
 
 ## 📖 Documentação
 
